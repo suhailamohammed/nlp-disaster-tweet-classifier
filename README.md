@@ -21,8 +21,7 @@ nlp-disaster-tweet-classifier/
 ├── embeddings.py                # Convert tweets into BERT or Word2Vec embeddings
 ├── model.py                     # Train/test model functions
 ├── main.py                      # Main script to run full pipeline
-├── requirements.txt             # Python dependencies
-└── disaster-classification.ipynb # Colab notebook which contains the same code.
+└── requirements.txt             # Python dependencies
 ```
 
 ## Dataset
