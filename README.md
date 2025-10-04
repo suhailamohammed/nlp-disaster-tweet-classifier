@@ -78,3 +78,6 @@ Follow these steps to set up the environment and run the code:
 ## Result Discussion
 It was observed that using Word2Vec embeddings for training produced faster results, achieving an F1 score of approximately `0.79129`. However, when the BERT embedding method was applied, 
 the F1 score increased significantly to `0.81274`. In my opinion, even though BERT required more time to process and generate embeddings, the performance improvement justified the additional computational cost.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/198zbJ7NwibizAvrd0m9N8zIpp0M78cjx?usp=sharing)
