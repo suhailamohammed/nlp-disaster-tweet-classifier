@@ -22,7 +22,7 @@ nlp-disaster-tweet-classifier/
 ├── model.py                     # Train/test model functions
 ├── main.py                      # Main script to run full pipeline
 ├── requirements.txt             # Python dependencies
-└── disaster-classification.ipynb # Colab notebook with exploratory analysis and code
+└── disaster-classification.ipynb # Colab notebook which contains the same code.
 ```
 
 ## Dataset
